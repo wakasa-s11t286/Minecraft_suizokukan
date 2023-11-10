@@ -1,0 +1,28 @@
+{
+    "name": "suizokukan_wakaba",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.7.19",
+        "tag": "v1.7.19",
+        "commits": "https://github.com/microsoft/pxt-minecraft/commits/21b59df01f2a2ab6ef3d48b0a197057d5d88615f",
+        "target": "1.7.21",
+        "pxt": "9.2.4",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "blocksprj"
+}
